@@ -5,10 +5,18 @@
  <style>
 * {
 margin: 0;
-padding: 0;
+padding: 2;
  box-sizing: border-box;
 font-family: sans-serif;
  }
+  nav {
+position: sticky;
+top: 0;
+background: black;
+padding: 15;
+text-align: center;
+z-index: 1000;
+}
 </head>
 <body bgcolor="lightpink">
 <header>
