@@ -126,7 +126,6 @@ cursor: pointer;
 <a href="#contact" class="cta-button">see our page</a>
 </div>
 
-
 <br><br>
 <div id="team" class="team-section">
 <h2>Meet Our Team</h2>
@@ -137,18 +136,14 @@ cursor: pointer;
 <div class="team-container">
  <div class="card">
 <div style="margin:auto" class="card img"></div>
-
-
-
-<center>
-<table border="1" cellpadding="15" cellspacing="0">
-<tr>
-<td align="center">
 <h3>Ajay R.</h3>
 <p><b>CEO & Founder</b></p>
 <p>Visionary leader with 15+ years of experience.</p>
-</td>
-<td align="center">
+ </div>
+
+<div class="card">
+<div style="margin:auto" class="card img"></div>
+
 <h3>Rahul Singh</h3>
 <p><b>Head of Design</b></p>
 <p>Expert in modern product design.</p>
