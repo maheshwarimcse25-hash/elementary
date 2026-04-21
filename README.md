@@ -111,19 +111,16 @@ cursor: pointer;
 </style>  
 </head>
 <body>
-
 <nav>
 <a href="#">Home</a> 
 <a href="#team">Team</a> 
 <a href="#contact">Contact</a>
 </nav>
-</h3>
 <hr width="80%">
-</header>
-<section>
-<center>
+<div class="hero">
+
 <h2>Welcome to Precision Tools</h2>
-<p>We deliver high-quality engineering solutions with <br>precision, innovation,
+<p> Engineering the future with accuracy and care. We deliver high-quality engineering solutions with <br>precision, innovation,
  and reliability </p>
  <br>
 <a href="#contact">
