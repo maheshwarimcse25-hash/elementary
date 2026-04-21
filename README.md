@@ -33,7 +33,19 @@ align-items: center;
 text-align: center;
 padding: 20px;
 }
-hero h1 {
+.hero h1 {
+font-size: 3rem;
+margin-bottom: 10px;
+}
+.cta-button {
+background: green;
+color: white;
+padding: 12px 24px;
+text-decoration: none;
+border-radius: 5px;
+margin-top: 20px;
+}
+.hero h1 {
 font-size: 3rem;
 margin-bottom: 10px;
 }
