@@ -23,7 +23,7 @@ text-decoration: none;
 margin: 0 15px;
 font-weight: bold;
 }
-hero {
+.hero {
 background: white;
 height: 400px;
 display: flex;
