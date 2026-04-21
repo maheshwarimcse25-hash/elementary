@@ -108,8 +108,9 @@ border-radius: 4px;
 cursor: pointer;
 }
 
-  
+</style>  
 </head>
+<body>
 <body bgcolor="lightpink">
 <header>
 <center>
