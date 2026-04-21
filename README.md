@@ -82,7 +82,8 @@ background: black;
 border-radius: 50%;
 margin-bottom: 15px;
 }
-
+form {
+ max-width: 400px
 </head>
 <body bgcolor="lightpink">
 <header>
