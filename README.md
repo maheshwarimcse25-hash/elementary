@@ -5,7 +5,7 @@
  <style>
 * {
 margin: 0;
-padding: 2;
+padding: 0;
  box-sizing: border-box;
 font-family: sans-serif;
  }
@@ -13,9 +13,15 @@ font-family: sans-serif;
 position: sticky;
 top: 0;
 background: black;
-padding: 15;
+padding: 15px;
 text-align: center;
 z-index: 1000;
+}
+nav a {
+color: white;
+text-decoration: none;
+margin: 0 15px;
+font-weight: bold;
 }
 </head>
 <body bgcolor="lightpink">
