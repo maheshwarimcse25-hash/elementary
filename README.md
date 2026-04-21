@@ -66,8 +66,9 @@ display: flex;
 flex-wrap: wrap;
 justify-content: center;
 gap: 20px;
-margin-top: 30px;
+margintop: 30px;
 }
+
 </head>
 <body bgcolor="lightpink">
 <header>
