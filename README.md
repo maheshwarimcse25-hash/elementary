@@ -163,7 +163,7 @@ cursor: pointer;
 
 
 
-<div id="contact">
+<section id="contact">
 <center>
 <h2>Contact Us</h2>
 <p>We hear from you</p>
@@ -184,10 +184,11 @@ cursor: pointer;
 </center>
 </section>
 <br><br>
+
 <footer>
 <h2 align="center">
 <hr width="90%">
-<p> 2026 Precision Tools Inc.  Built with using HTML</p>
+<p> 2026 Precision Tools Inc.  Built with using html or CSS</p>
 </h2>
 </footer>
 </body>
