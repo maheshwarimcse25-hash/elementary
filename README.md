@@ -147,18 +147,23 @@ cursor: pointer;
 <h3>Rahul Singh</h3>
 <p><b>Head of Design</b></p>
 <p>Expert in modern product design.</p>
-</td>
-<td align="center">
+</div>
+<div class="card">
+<div style="margin:auto" class="card img"></div>
+
 <h3>Akshay Khanna</h3>
 <p><b>Lead Engineer</b></p>
 <p>Specialist in mechanical systems and innovation.</p>
-</td>
-</tr>
-</table>
-</center>
-</section>
+</div>
+</div>
+</div>
 <br><br>
-<section id="contact">
+
+
+
+
+
+<div id="contact">
 <center>
 <h2>Contact Us</h2>
 <p>We hear from you</p>
