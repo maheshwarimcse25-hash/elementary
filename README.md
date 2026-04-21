@@ -2,6 +2,11 @@
 <html lang="en">
 <head>
 <title>Precision Tools</title>
+ <style>
+* {
+margin: 0;
+padding: 0;
+ }
 </head>
 <body bgcolor="lightpink">
 <header>
