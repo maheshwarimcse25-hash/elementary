@@ -93,7 +93,21 @@ form {
  flex-direction: column;
  text-align: left;
  }
- input, textarea{
+ input, textarea {
+margin-bottom: 15px;
+padding: 10px;
+border: 1px solid black;
+border-radius: 4px;
+}
+button {
+background: white;
+color: white;
+padding: 10px;
+border: none;
+border-radius: 4px;
+cursor: pointer;
+}
+
   
 </head>
 <body bgcolor="lightpink">
