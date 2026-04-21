@@ -57,6 +57,17 @@ text-decoration: none;
 border-radius: 5px;
 margin-top: 20px;
 }
+.team-section {
+padding: 50px 20px;
+text-align: center;
+}
+.team-container {
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+gap: 20px;
+margin-top: 30px;
+}
 </head>
 <body bgcolor="lightpink">
 <header>
