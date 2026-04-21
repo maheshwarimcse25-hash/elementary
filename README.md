@@ -23,6 +23,16 @@ text-decoration: none;
 margin: 0 15px;
 font-weight: bold;
 }
+hero {
+background: white;
+height: 400px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+text-align: center;
+padding: 20px;
+}
 </head>
 <body bgcolor="lightpink">
 <header>
