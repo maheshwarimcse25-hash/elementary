@@ -9,7 +9,7 @@
 <h1> Precision Tools Inc</h1>
 <p><i>Engineering the future with accuracy and care</i></p>
 </center>
-<hr width="80%">
+<hr width="80">
 <h3 align="center">
 <nav>
 <a href="#">Home</a> 
