@@ -82,8 +82,19 @@ background: black;
 border-radius: 50%;
 margin-bottom: 15px;
 }
+ .contact-section {
+  background: white;
+  padding: 50px 20px;
+  text-align: center;
 form {
- max-width: 400px
+ max-width: 400px;
+ margin: 0 auto;
+ display: flex;
+ flex-direction: column;
+ text-align: left;
+ }
+ input, textarea{
+  
 </head>
 <body bgcolor="lightpink">
 <header>
