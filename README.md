@@ -123,18 +123,23 @@ cursor: pointer;
 <p> Engineering the future with accuracy and care. We deliver high-quality engineering solutions with <br>precision, innovation,
  and reliability </p>
  <br>
-<a href="#contact">
-<button>see our page</button>
-</a>
-</center>
-</section>
+<a href="#contact" class="cta-button">see our page</a>
+</div>
+
+
 <br><br>
-<section id="team">
-<center>
+<div id="team" class="team-section">
 <h2>Meet Our Team</h2>
+ <center>
 <p>Our talented professionals driving innovation</p>
 <br>
-</center>
+  </center>
+<div class="team-container">
+ <div class="card">
+<div style="margin:auto" class="card img"></div>
+
+
+
 <center>
 <table border="1" cellpadding="15" cellspacing="0">
 <tr>
