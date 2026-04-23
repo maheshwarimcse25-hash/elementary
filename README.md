@@ -45,7 +45,7 @@ text-decoration: none;
 border-radius: 5px;
 margin-top: 20px;
 }
-.hero h1 {
+.hero h2 {
 font-size: 3rem;
 margin-bottom: 10px;
 }
