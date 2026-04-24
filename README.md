@@ -67,21 +67,7 @@ flex-wrap: wrap;
 justify-content: center;
 gap: 20px;
 margin-top: 30px;
-}
-.card {
-border: 1px solid black;
-width: 250px;
-padding: 20px;
-border-radius: 8px;
-box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
-}
-.card img {
-width: 100px;
-height: 100px;
-background: black;
-border-radius: 50%;
-margin-bottom: 15px;
-}
+
 
 
 </style>  
