@@ -82,31 +82,7 @@ background: black;
 border-radius: 50%;
 margin-bottom: 15px;
 }
- .contact-section {
-  background: white;
-  padding: 50px 20px;
-  text-align: center;
-form {
- max-width: 400px;
- margin: 0 auto;
- display: flex;
- flex-direction: column;
- text-align: left;
- }
- input, textarea {
-margin-bottom: 15px;
-padding: 10px;
-border: 1px solid black;
-border-radius: 4px;
-}
-button {
-background: white;
-color: white;
-padding: 10px;
-border: none;
-border-radius: 4px;
-cursor: pointer;
-}
+
 
 </style>  
 </head>
