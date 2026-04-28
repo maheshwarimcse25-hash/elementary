@@ -63,7 +63,29 @@ justify-content: center;
 gap: 20px;
 margin-top: 30px;
 }
+img {
+ width: 100%;
+ height: auto;
+}
 
+.img-border {
+  border: 2px solid black;
+}
+
+.img-round {
+  border-radius: 8px;
+}
+
+.img-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img-shadow {
+  box-shadow: 2px 2px 5px gray;
+}
+ 
 
 
 
