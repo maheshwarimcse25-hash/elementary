@@ -19,7 +19,7 @@ app.post("/contact", async (req, res) => {
     const { name, email, message } = req.body;
 
     try {
-        // Email content
+        
         const mailOptions = {
             from: email,
             to: "your_email@gmail.com",   
@@ -27,7 +27,7 @@ app.post("/contact", async (req, res) => {
             text: `Name: ${name}\nEmail: ${email}\nMessage: ${message}`
         };
 
-        // Send email
+      
         await transporter.sendMail(mailOptions);
 
         console.log("Email sent successfully!");
