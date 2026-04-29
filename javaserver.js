@@ -5,7 +5,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-// Simple API route
+
 app.post("/contact", (req, res) => {
     const { name, email, message } = req.body;
 
