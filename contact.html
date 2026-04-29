@@ -22,7 +22,7 @@
     <input type="email" id="email" placeholder="Email Address" size="50" required><br>
 <br>
     <textarea id="message" rows="5" cols="42" placeholder="Your Message" size="50" required></textarea><br>
-    <p id="responseMsg"> </p>
+    <p id="responseMsg"></p>
     <button type="submit">Send Message</button>
   </form>
 </section>
@@ -40,7 +40,7 @@ name: document.getElementById("name").value,
 email: document.getElementById("email").value,
 message: document.getElementById("message").value
 };
-
+try{
 const response = await fetch("http://localhost:3000/contact", {
 method: "POST",
 headers: {
@@ -51,6 +51,9 @@ headers: {
 
 const result = await response.json();
 document.getElementById("responseMsg").innerText = result.message;
+} catch (error) {
+  document.getElementById("responeseMsg").innerText = "Error sending message";
+}
 });
 </script>
 
