@@ -85,6 +85,18 @@ img {
 .img-shadow {
   box-shadow: 2px 2px 5px gray;
 }
+.image-container {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.image-container img {
+  width: 200px;
+  height: auto;
+  border-radius: 10px;
+}
  section {
   background-color: white;
   margin: 50px auto;
