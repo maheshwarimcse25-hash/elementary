@@ -4,6 +4,12 @@ padding: 0;
  box-sizing: border-box;
 font-family: times new roman;
  }
+header {
+ background: #8a1538;
+ color: yellow;
+ padding: 20px;
+ text-align: center;
+}
   nav {
 position: sticky;
 top: 0;
